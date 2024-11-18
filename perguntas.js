@@ -13,8 +13,8 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é programação?',
+    'Programação é a arte de escrever instruções para computadores para que eles possam realizar tarefas.'
 )
 
 criaCartao(
