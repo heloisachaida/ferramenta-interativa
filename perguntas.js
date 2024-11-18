@@ -1,8 +1,8 @@
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Arte',
+    'O que é Arte?',
+    'Arte é uma palavra que se origina do vocábulo latino ars e significa técnica ou habilidade. Podemos dizer que é uma manifestação humana comunicativa muito antiga.'
 )
 
 criaCartao(
@@ -19,6 +19,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como pedir ajuda em ingles?',
+    'pedir ajuda em ingles é (ask for help)'
 )
